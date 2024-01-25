@@ -1,2 +1,2 @@
 # surrogate_brittle_fractures
-We present a software in FENICs for a surrogate brittle fracture model
+A software in FENICS to simulate brittle fractures is presented in this work.
