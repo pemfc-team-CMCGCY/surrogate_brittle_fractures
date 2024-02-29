@@ -1,6 +1,6 @@
 # Surrogate_brittle_fractures
 
-A software implemented in FENICS Software to simulate brittle fractures is presented in this work. ParaView Software is used to visualize the results.
+A software implemented in FENICS Software to simulate brittle fractures is presented in this work. ParaView software is utilized for visualizing results.
 
 If using this code for research or industrial purposes, please cite:
 
