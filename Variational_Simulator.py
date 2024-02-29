@@ -1,3 +1,7 @@
+# Updated by Luis Blanco-Cocom (2019)
+# Simulator to brittle fractures, Shear mode
+#
+
 from dolfin import *
 from mshr import *
 import matplotlib.pyplot as plt
