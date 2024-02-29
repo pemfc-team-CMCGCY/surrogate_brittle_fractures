@@ -1,5 +1,6 @@
-# %load Simulacion_rama_matern.py
-### Programa 5 repeticiones con matern rama
+# Updated by Luis Blanco-Cocom (2019)
+# Simulator to brittle fractures, Shear mode
+
 
 from dolfin import *
 import numpy as np
