@@ -2,7 +2,7 @@
 # Simulator to brittle fractures, Shear mode
 #
 
-from dolfin import *
+from dolfin import * 
 from mshr import *
 import matplotlib.pyplot as plt
 import numpy as np
