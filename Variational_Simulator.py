@@ -170,7 +170,7 @@ n, m = example.shape
  
 random_field_vector = np.zeros(n*m) 
  
-k=0 
+k=0  
 for kkk in range(m): 
     for iii in range(kkk+1): 
         random_field_vector[k] = Gc_base  + (Gc_base/sigma_iter)*example[kkk -iii, iii] 
