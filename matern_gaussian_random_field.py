@@ -6,7 +6,7 @@
 
 from __future__ import absolute_import
 from __future__ import division
-from __future__ import print_function
+from __future__ import print_function 
 
 # Main dependencies
 import numpy
@@ -80,7 +80,7 @@ def matern_gaussian_random_field(band = 2, length = 1.0, nu = 3.0,
         # Defines the amplitude as a power law 1/|k|^(alpha/2)
         amplitude = numpy.power( k_idx[0]**2 + k_idx[1]**2 + 1e-10, -alpha/4.0 )
     else:
-        
+        # Dimension d = 2
         amplitude =  numpy.power(  (2*nu + 1e-10)/(length*length) +  k_idx[0]**2 + k_idx[1]**2 + 1e-10 , - (nu + 1.0))
    
     amplitude[0,0] = 0
