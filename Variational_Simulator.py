@@ -1,4 +1,4 @@
-# Updated by Luis Blanco-Cocom (2019)
+# Updated by Luis Blanco-Cocom (2024)
 # Simulator to brittle fractures, Shear mode
 #
 
