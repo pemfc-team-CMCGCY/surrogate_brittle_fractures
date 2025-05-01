@@ -1,5 +1,5 @@
 # Copyright 2017 Bruno Sciolla. All Rights Reserved.
-# Adaptated to Mátern gaussian random field by Luis Blanco-Cocom 2019
+# Adaptated to Mátern gaussian random field by Luis Blanco-Cocom 2024
 # ==============================================================================
 # Generator for 2D scale-invariant Gaussian Random Fields
 # ==============================================================================
